@@ -1,0 +1,294 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.nav {
+    margin-left: 50%;
+    margin-top: 40px;
+}
+
+.nav-link {
+    padding: 10px;
+
+}
+
+.nav-link:hover {
+    background-color: #fff;
+    color: orange
+}
+
+.logo img {
+    margin-top: 20px;
+    float: left;
+    margin-left: 200px;
+}
+
+.img {
+    background-image: url(./img/LuLu.jpeg);
+    height: 70vh;
+    background-size: cover;
+    background-position: center;
+    margin-top: 5%;
+}
+
+.caret {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 0px;
+    vertical-align: middle;
+    border-top: 4px dashed;
+    border-top: 4px solid \9;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+}
+
+.title {
+    margin-top: 5px;
+    background-color: #fbb70c;
+    height: 90vh;
+}
+
+.serv {
+    text-align: center;
+    padding: 15px;
+    font-size: 25px;
+}
+
+.col-md-4 {
+    list-style: none;
+    display: inline-flex;
+    padding: 100px 100px;
+    margin-top: 10px;
+    margin-left: 10%;
+    font-size: 20px;
+}
+
+.col-md-4_ndd {
+    text-align: center;
+    margin-right: 2%;
+}
+
+.Redmore {
+    text-align: center;
+    margin-top: 7%;
+}
+
+.Redmore:hover {
+    color: blue
+}
+
+.Ins {
+    text-align: center;
+    margin-top: 3%;
+    font-size: 24px;
+}
+
+.peraghraph {
+    margin-left: 10%;
+    margin-top: 5%;
+    font-size: 24px;
+    color: #666666;
+}
+
+.Readmore {
+    margin-left: 10%;
+}
+
+.container {
+    margin-top: 10%;
+}
+
+.container {
+    margin-top: 10%;
+}
+
+.container {
+    margin-top: 10%;
+}
+
+.Contact {
+    margin-top: 15%;
+    text-align: center;
+}
+
+.Heading {
+    padding: 20px;
+
+}
+
+.bot_line_1 {
+    padding: 10px;
+
+}
+
+.map {
+    margin-top: 25px;
+}
+
+.signing {
+    text-align: center;
+    margin-top: 10%;
+
+}
+
+.know {
+    margin-top: -85px;
+    margin-bottom: 2%;
+}
+
+.col {
+    padding: 20px;
+
+}
+
+.form-control {
+    width: 30%;
+    padding: 12px;
+
+}
+
+.form {
+    margin-top: 20px;
+}
+
+.btn {
+    text-align: center;
+    padding: 15px;
+}
+
+.subbtn {
+    background-color: #fbb70c;
+    padding: 12px;
+
+}
+
+.subbtn:hover {
+    background-color: red;
+}
+
+
+/* <------About-------> */
+
+
+
+.about {
+    height: 100px;
+
+
+}
+
+.Aboutus {
+    background-image: url(./img/about-us.jpg);
+    background-size: cover;
+    min-width: 1200px;
+    height: 250px;
+
+}
+
+.program {
+    color: #ffff;
+    padding: 14%;
+}
+
+.title2 {
+    background-color: #fbb70c;
+    height: 60vh;
+
+}
+
+.workforce {
+    padding: 40px;
+    margin-left: 8%;
+}
+
+.pharag {
+    margin-top: 3%;
+
+}
+
+.background {
+    background-color: aqua;
+}
+
+.mission {
+    padding: 8%;
+}
+
+.vision {
+    margin-bottom: 3%;
+}
+
+
+.leadership2 {
+    background-color: #fbb70c;
+    height: 25vh;
+
+}
+
+.management {
+    padding: 3%;
+    margin-left: 8%;
+    font-size: 20px;
+}
+
+.card {
+    text-align: center;
+    margin-top: 3%;
+
+}
+
+.careermap {
+    text-align: center;
+    margin-top: 3%;
+}
+.career{
+    background-image: url(./img/5555.jpg);
+    background-size: cover;
+    min-width: 1200px;
+    height: 250px;
+}
+.imgcarer{
+    margin-top: 1%;
+    border-image: 1%;
+    background-size: cover;
+}
+.smallimg{
+    text-align: center;
+    margin-top: 1%;
+    border-image: 1%;
+    background-size: cover;
+}
+.management2{
+    margin-top: 1%;
+    padding: 3%;
+    margin-left: 8%;
+    font-size: 20px;
+}
+.contactymap{
+    background-image: url(./img/contact-us.png);
+    background-size: cover;
+    min-width: 1200px;
+    height: 250px;
+}
+.contel{
+    color: #ffff;
+    padding: 14%;
+}
+.mapncr{
+   width:  50vh;
+   background-size: cover;
+   min-width: 1200px;
+   
+}
+.end{
+    text-align: center;
+    background-color: red;
+    width: 1536px;
+    height: 736px;
+}
+.thaks{
+    color: #fff;
+    padding: 25%;
+}
